@@ -93,15 +93,19 @@ Example (MinGW):
 g++ snake_game.cpp -o snake_game
 snake_game
 
-Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
+
+Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_just-finished-my-snake-game-in-c-a-activity-7417833485480026112-DJ7T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
+
+
 
 *Click on any image to watch the project video on LinkedIn*
 
 📸 Screenshots
-[![Gameplay Screenshot](https://github.com/user-attachments/assets/c3272fea-854f-439e-96b4-e5647605601e)](https://www.linkedin.com/posts/waelsamer_just-finished-my-snake-game-in-c-a-activity-7417833485480026112-DJ7T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
 
-[![Gameplay Screenshot 2](https://github.com/user-attachments/assets/8cef68f4-a382-4b09-b153-f66f3bc3ca29)](https://www.linkedin.com/posts/waelsamer_just-finished-my-snake-game-in-c-a-activity-7417833485480026112-DJ7T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
+[![Gameplay Screenshot](https://github.com/user-attachments/assets/c3272fea-854f-439e-96b4-e5647605601e)](https://www.linkedin.com/posts/waelsamer_just-finished-my-snake-game-in-c-a-activity-7417833485480026112-DJ7T)
 
+
+[![Gameplay Screenshot 2](https://github.com/user-attachments/assets/8cef68f4-a382-4b09-b153-f66f3bc3ca29)](https://www.linkedin.com/posts/waelsamer_just-finished-my-snake-game-in-c-a-activity-7417833485480026112-DJ7T)
 
 
 📌 Notes
@@ -117,6 +121,6 @@ Difficulty levels control the speed of the snake (Lower value = faster movement)
 Wael Samer
 Software Engineering Student
 
-GitHub: [github.com/waelodeh98](https://github.com/waelodeh98)  
-LinkedIn: [linkedin.com/in/wael-samer](https://www.linkedin.com/in/waelsamer)
+GitHub   : [github.com/waelodeh98](https://github.com/waelodeh98)  
+LinkedIn : [linkedin.com/in/wael-samer](https://www.linkedin.com/in/waelsamer)
 
