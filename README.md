@@ -1,4 +1,6 @@
 🐍 Snake Game (C++ Console)
+
+
 ![Screenshot](https://github.com/user-attachments/assets/c89a91ad-c5cf-478f-939e-1d16d9d1c514)
 
 Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_just-finished-my-snake-game-in-c-a-activity-7417833485480026112-DJ7T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
